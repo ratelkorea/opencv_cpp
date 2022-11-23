@@ -1,5 +1,5 @@
 
-유튜브 채널 : Murtaza's Workshop - Robotics and AI
+유튜브 채널 : Murtaza's Workshop - Robotics and AI  //  
              4시간 안에 OPENCV C++ 배우기 | 3x 프로젝트 포함 | 컴퓨터 시각 인식
            
 --------------------------------------------------------------------------------
